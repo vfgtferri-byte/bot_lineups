@@ -1,0 +1,25 @@
+{
+  "ports": [
+    {
+      "port_name": "Port of Mombasa",
+      "country": "Kenya",
+      "url": "https://example.com/mombasa/schedule",
+      "method": "html",
+      "notes": "Reemplazar por URL oficial"
+    },
+    {
+      "port_name": "Port of Durban",
+      "country": "South Africa",
+      "url": "https://example.com/durban/schedule",
+      "method": "html",
+      "notes": "Reemplazar por URL oficial"
+    },
+    {
+      "port_name": "Port of Tanger Med",
+      "country": "Morocco",
+      "url": "https://example.com/tangermed/schedule.json",
+      "method": "json",
+      "notes": "Reemplazar por endpoint oficial"
+    }
+  ]
+}
